@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Teor_ver_lab", "Teor_ver_lab\Teor_ver_lab.csproj", "{B4BF0D72-689F-435D-A16E-35C37B046F7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4BF0D72-689F-435D-A16E-35C37B046F7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4BF0D72-689F-435D-A16E-35C37B046F7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4BF0D72-689F-435D-A16E-35C37B046F7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4BF0D72-689F-435D-A16E-35C37B046F7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED9DE131-BEC5-4F9E-A4D9-ECCC1434DDA1}
+	EndGlobalSection
+EndGlobal
